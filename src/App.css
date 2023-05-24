@@ -1,4 +1,53 @@
-.App {
+.invalid{
+  border:1px solid #ff0000
+  }
+
+
+
+
+
+
+
+
+
+/* .css-cuefkz-MuiContainer-root{
+  border: solid;
+  padding-left: 50px;
+} */
+.css-p2pb1b-MuiContainer-root {
+  width: 80%!important;
+  margin: auto;
+  margin-top: 50px !important;
+
+  padding-top: 25px !important;
+  padding-bottom: 25px !important;
+  
+
+  /* padding: unset; */
+  /* margin-left: auto; */
+  /* box-sizing: border-box; */
+  display: block;
+
+  border: solid!important;
+  border-color:bisque!important;
+  /* padding-left: 16px; */
+  /* padding-right: 16px; */
+}
+
+
+.sized{
+  width: 100% !important;
+}
+.error{
+  border: 1px solid red !important;
+  border-radius: 9px !important;
+}
+h1 {
+  padding-left: 12px!important;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +84,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
