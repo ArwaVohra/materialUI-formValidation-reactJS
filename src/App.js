@@ -68,7 +68,7 @@ function App() {
 
     <Fragment>
       <Typography variant="h4" align="center" sx={{ m: '2rem',fontWeight: 'bold' }} >
-        Register your account
+        Register your Account
       </Typography>
       <Container maxWidth="lg" sx={{ boxShadow: 12, borderRadius: '10px' }}>
         <Paper>
